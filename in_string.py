@@ -11,4 +11,4 @@ def verificar_vocales_en_nombre(nombre):
     print(f"Contiene i: {contiene_i}")
     print(f"Contiene o: {contiene_o}")
     print(f"Contiene u: {contiene_u}")
-#verificar_vocals_en_nombre()
+# verificar_vocals_en_nombre()
