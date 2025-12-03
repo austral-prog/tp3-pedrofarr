@@ -15,3 +15,4 @@ def aplicar_slices(texto):
     print(primeras_tres)
     print(tres_del_medio)
     print(concatenacion)
+#aplicar_slices()
